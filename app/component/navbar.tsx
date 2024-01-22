@@ -26,7 +26,7 @@ export default function Navbar(){
         
       <a href="/" className="mr-5 hover:text-blue-600">Home</a>
       <a href="#About" className="mr-5 hover:text-blue-600">About</a>
-      <a href="#" className="mr-5 hover:text-blue-600">Skills</a>
+      <a href="#Skills" className="mr-5 hover:text-blue-600">Skills</a>
       <a href="#Project" className="mr-5 hover:text-blue-600">Projects</a>
       <a href="#Contact" className="mr-5 hover:text-blue-600">Contact Us</a>
     </nav>
